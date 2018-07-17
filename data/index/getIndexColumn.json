@@ -1,0 +1,137 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": [{
+		"name": "手机通讯",
+		"moreUrl": "/category/1",
+		"advBananerList": [{
+			"name": "商品广告1",
+			"linkUrl": "http://www.itzoujie.com",
+			"pictureUrl": "http://placeholder.qiniudn.com/900x500",
+			"price": null,
+			"monthPayments": null,
+			"months": null
+		}],
+		"advProductList": [{
+			"name": "美的 5叶变频落地扇 FS40-15CR 白色FS40-15CR",
+			"linkUrl": "/product/1057",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 399,
+			"monthPayments": 38.52,
+			"months": 12
+		}, {
+			"name": "美的 5叶变频落地扇 FS40-15CR 白色FS40-15CR",
+			"linkUrl": "/product/1057",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 399,
+			"monthPayments": 38.52,
+			"months": 12
+		}, {
+			"name": "\t 美的 五叶遥控落地扇 FS40-13CR 黑色 FS40-13CR",
+			"linkUrl": "/product/1049",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 229,
+			"monthPayments": 22.10,
+			"months": 12
+		}]
+	}, {
+		"name": "平板电脑",
+		"moreUrl": "/category/19",
+		"advBananerList": [{
+			"name": "商品广告1",
+			"linkUrl": "http://www.itzoujie.com",
+			"pictureUrl": "http://placeholder.qiniudn.com/900x500",
+			"price": null,
+			"monthPayments": null,
+			"months": null
+		}],
+		"advProductList": [{
+			"name": "雷神Dino-X6 (15寸 i7-7700HQ 8G 128G固态+1TB GTX1060 6G 72%色域IPS RGB Win10) 官方标配",
+			"linkUrl": "/product/1013",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 9999,
+			"monthPayments": 965.52,
+			"months": 12
+		}, {
+			"name": "美的（Midea）除湿机 CF18BD/N3-DF 官方标配",
+			"linkUrl": "/product/1048",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 2099,
+			"monthPayments": 202.67,
+			"months": 12
+		}, {
+			"name": "东菱面包机BM-Y665 官方标配",
+			"linkUrl": "/product/964",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 599,
+			"monthPayments": 57.83,
+			"months": 12
+		}]
+	}, {
+		"name": "数码周边",
+		"moreUrl": "/category/36",
+		"advBananerList": [{
+			"name": "商品广告1",
+			"linkUrl": "http://www.itzoujie.com",
+			"pictureUrl": "http://placeholder.qiniudn.com/900x500",
+			"price": null,
+			"monthPayments": null,
+			"months": null
+		}],
+		"advProductList": [{
+			"name": "伊莱克斯 EEK7804S电热水壶不锈钢防烫水壶保温烧水壶 不锈钢色",
+			"linkUrl": "/product/742",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 799,
+			"monthPayments": 77.14,
+			"months": 12
+		}, {
+			"name": "THERMOS膳魔师新品真空保温杯 JMF-501(BWG)  黄色",
+			"linkUrl": "/product/979",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 256,
+			"monthPayments": 24.71,
+			"months": 12
+		}, {
+			"name": "艾美特 落地扇 FSW65T2-5 黑色 FSW65T2-5",
+			"linkUrl": "/product/1037",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 179,
+			"monthPayments": 17.27,
+			"months": 12
+		}]
+	}, {
+		"name": "家用电器",
+		"moreUrl": "/category/13",
+		"advBananerList": [{
+			"name": "商品广告1",
+			"linkUrl": "http://www.itzoujie.com",
+			"pictureUrl": "http://placeholder.qiniudn.com/900x500",
+			"price": null,
+			"monthPayments": null,
+			"months": null
+		}],
+		"advProductList": [{
+			"name": "苹果/Apple iPhone 7 移动联通电信4G手机 玫瑰金128G",
+			"linkUrl": "/product/1",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 5499,
+			"monthPayments": 530.99,
+			"months": 12
+		}, {
+			"name": "苹果/Apple iPhone 7 移动联通电信4G手机 玫瑰金32G",
+			"linkUrl": "/product/3",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 4699,
+			"monthPayments": 453.73,
+			"months": 12
+		}, {
+			"name": "苹果/Apple iPhone 7 移动联通电信4G手机 玫瑰金32G",
+			"linkUrl": "/product/3",
+			"pictureUrl": "http://placeholder.qiniudn.com/100x100",
+			"price": 4699,
+			"monthPayments": 453.73,
+			"months": 12
+		}]
+	}]
+}

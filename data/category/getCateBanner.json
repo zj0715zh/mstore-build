@@ -1,0 +1,13 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": [{
+		"name": "分类页相机单反banner",
+		"linkUrl": "/product/826",
+		"pictureUrl": "http://placeholder.qiniudn.com/750x280",
+		"price": null,
+		"monthPayments": null,
+		"months": null,
+		"iconTypeName": null
+	}]
+}

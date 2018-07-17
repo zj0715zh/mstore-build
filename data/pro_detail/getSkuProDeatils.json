@@ -1,0 +1,20 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": {
+		"id": 1,
+		"proName": "苹果/Apple iPhone 7 移动联通电信4G手机",
+		"hotWords": "",
+		"skuName": "玫瑰金128G",
+		"saleState": 1,
+		"price": 5499,
+		"saleQuantity": 100,
+		"monthPayments": 530.99,
+		"months": 12,
+		"picList": ["http://placeholder.qiniudn.com/100x100"],
+		"sellerName": "纬雅",
+		"description": "已激活和拆除原包装的商品，无质量问题不支持退货，请您确认需求后再激活使用。<img src=\"http://placeholder.qiniudn.com/100x100\" />",
+		"loginStatus": false,
+		"isCollected": false
+	}
+}

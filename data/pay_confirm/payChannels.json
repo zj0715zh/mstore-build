@@ -1,0 +1,43 @@
+{
+	"code": 1,
+	"message": "请求成功",
+	"content": {
+		"defPay": {
+			"payType": 1,
+			"payId": 12
+		},
+		"listingPay": {
+			"payType": 1,
+			"periods": [{
+				"month": 6,
+				"monthPayment": 333.50,
+				"downPayment": 1600.00
+			}, {
+				"month": 12,
+				"monthPayment": 233.50,
+				"downPayment": 1600.00
+			}],
+			"availableAmount": 1000.00
+		},
+		"cashPay": {
+			"quickPay": {
+				"payType": 2,
+				"quickChannels": [{
+					"bankId": 1,
+					"bankIconUrl": "http://placeholder.qiniudn.com/100x100",
+					"bankName": "招商银行",
+					"cardSuffix": "3443"
+				}]
+			},
+			"weChatPay": {
+				"payType": 3,
+				"payChannels": [{
+					"weId": 1,
+					"weChatIconUrl": "http://placeholder.qiniudn.com/100x100",
+					"payName": "微信支付"
+				}]
+			}
+		}
+	}
+
+}

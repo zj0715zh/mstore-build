@@ -1,0 +1,13 @@
+{
+    "code": 1,
+    "message": "SUCCESS",
+    "content": [{
+        "name": "测试---",
+        "linkUrl": "www.baidu.com",
+        "pictureUrl": "http://placeholder.qiniudn.com/733x579",
+        "price": null,
+        "monthPayments": null,
+        "months": null,
+        "iconTypeName": null
+    }]
+}

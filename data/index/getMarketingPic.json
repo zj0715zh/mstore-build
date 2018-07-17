@@ -1,0 +1,19 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": [{
+		"name": "营销广告1",
+		"linkUrl": "http://www/itzoujie.com",
+		"pictureUrl": "http://placeholder.qiniudn.com/900x500",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}, {
+		"name": "营销广告2",
+		"linkUrl": "http://www/itzoujie.com",
+		"pictureUrl": "http://placeholder.qiniudn.com/900x500",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	"responseCode": 1,
+	"responseMessage": "SUCCESS",
+	"responseContent": [{
+		"name": "20170524 banner",
+		"linkUrl": "https://www.baidu.com/",
+		"pictureUrl": "http://placeholder.qiniudn.com/750x380",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}, {
+		"name": "517电信日bananer",
+		"linkUrl": "https://www.baidu.com/",
+		"pictureUrl": "http://placeholder.qiniudn.com/750x380",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}, {
+		"name": "banner广告3",
+		"linkUrl": "https://www.baidu.com/",
+		"pictureUrl": "http://placeholder.qiniudn.com/750x380",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}, {
+		"name": "banner广告4",
+		"linkUrl": "https://www.baidu.com/",
+		"pictureUrl": "http://placeholder.qiniudn.com/750x380",
+		"price": null,
+		"monthPayments": null,
+		"months": null
+	}]
+}
