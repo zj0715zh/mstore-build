@@ -24,7 +24,7 @@
 				"payType": 2,
 				"quickChannels": [{
 					"bankId": 1,
-					"bankIconUrl": "http://placeholder.qiniudn.com/100x100",
+					"bankIconUrl": "http://placehold.it/100x100/0ab/fff.png&text=mstore.itzoujie.com",
 					"bankName": "招商银行",
 					"cardSuffix": "3443"
 				}]
@@ -33,7 +33,7 @@
 				"payType": 3,
 				"payChannels": [{
 					"weId": 1,
-					"weChatIconUrl": "http://placeholder.qiniudn.com/100x100",
+					"weChatIconUrl": "http://placehold.it/100x100/0ab/fff.png&text=mstore.itzoujie.com",
 					"payName": "微信支付"
 				}]
 			}

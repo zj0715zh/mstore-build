@@ -4,14 +4,14 @@
 	"responseContent": [{
 		"name": "营销广告1",
 		"linkUrl": "http://www/itzoujie.com",
-		"pictureUrl": "http://placeholder.qiniudn.com/900x500",
+		"pictureUrl": "http://placehold.it/900x500/0ab/fff.png&text=mstore.itzoujie.com",
 		"price": null,
 		"monthPayments": null,
 		"months": null
 	}, {
 		"name": "营销广告2",
 		"linkUrl": "http://www/itzoujie.com",
-		"pictureUrl": "http://placeholder.qiniudn.com/900x500",
+		"pictureUrl": "http://placehold.it/900x500/0ab/fff.png&text=mstore.itzoujie.com",
 		"price": null,
 		"monthPayments": null,
 		"months": null

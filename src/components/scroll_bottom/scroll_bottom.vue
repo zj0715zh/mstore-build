@@ -10,7 +10,7 @@
             </div>
             <div class="content">
               <section class="left">
-                <img src="http://placeholder.qiniudn.com/100x100">
+                <img src="http://placehold.it/100x100/0ab/fff.png&text=mstore.itzoujie.com">
               </section>
               <section class="right">
                 <p class="order_title">沙发斯蒂芬</p>

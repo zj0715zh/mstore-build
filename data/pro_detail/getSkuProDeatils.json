@@ -11,9 +11,9 @@
 		"saleQuantity": 100,
 		"monthPayments": 530.99,
 		"months": 12,
-		"picList": ["http://placeholder.qiniudn.com/100x100"],
+		"picList": ["http://placehold.it/100x100/0ab/fff.png&text=mstore.itzoujie.com"],
 		"sellerName": "纬雅",
-		"description": "已激活和拆除原包装的商品，无质量问题不支持退货，请您确认需求后再激活使用。<img src=\"http://placeholder.qiniudn.com/100x100\" />",
+		"description": "已激活和拆除原包装的商品，无质量问题不支持退货，请您确认需求后再激活使用。<img src=\"http://placehold.it/100x100/0ab/fff.png&text=mstore.itzoujie.com\" />",
 		"loginStatus": false,
 		"isCollected": false
 	}
